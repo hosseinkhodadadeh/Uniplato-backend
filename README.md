@@ -1,10 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-  <meta name="viewport" content="width=device-width">
-  <title>Uniplato-backend/README.md at master</title>
-    <meta name="description" content="Uniplato-backend made by php">
-  </head>
+ 
 
   <body class="logged-out env-production page-responsive page-blob">
     
